@@ -1,0 +1,16 @@
+#absenTable {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+}
+
+#absenTable th,
+#absenTable td {
+    text-align: left;
+    padding: 8px;
+    border: 1px solid #ddd;
+}
+
+#absenTable th {
+    background-color: #f2f2f2;
+}
